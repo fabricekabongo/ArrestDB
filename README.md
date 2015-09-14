@@ -206,3 +206,6 @@ ArrestDB is a complete rewrite of [Arrest-MySQL](https://github.com/gilbitron/Ar
 ##License (MIT)
 
 Copyright (c) 2014 Alix Axel (alix.axel+github@gmail.com).
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/fabricekabongo/arrestdb/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
